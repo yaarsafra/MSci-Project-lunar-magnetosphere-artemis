@@ -4,9 +4,8 @@ This repository contains materials from my MSci Physics project at Imperial Coll
 
 The project applies unsupervised (k-means clustering) and supervised (XGBoost) machine learning methods to plasma and magnetic field measurements.
 
-Using over 11 years of data, this work extends previous studies based on shorter manually analysed datasets to a larger-scale, data-driven analysis at lunar distance.
+Using over 14 years of data, this work extends previous studies based on shorter manually analysed datasets to a larger-scale, data-driven analysis at lunar distance.
 
 ## Contents
 - Project report
-- Presentation slides
 - Key figures illustrating methodology and results
